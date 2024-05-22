@@ -22,12 +22,12 @@
 Условите во if се:
 
 `item.getPrice() > 300`
-
+&&
 `item.getDiscount() > 0`
-
+&&
 `item.getBarcode().charAt(0) == '0'`
 
-Секој услов може да биде ТОЧЕН или НЕТОЧЕН, во случајв имаме 3 подуслови = 2^3 = 8 !
+Секој услов може да биде ТОЧЕН или НЕТОЧЕН, во случајв имаме 3 подуслови = 2^3 = 8 
 
 ![multiple-condition.png](multiple-condition.png)
 [SI-lab2 - Multiple-conditions.pdf](SI-lab2%20-%20Multiple-conditions.pdf)
