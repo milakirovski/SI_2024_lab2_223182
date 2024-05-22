@@ -1,9 +1,8 @@
 ### Мила Кировски 223182
 
 #### Control Flow Graph
-Import image:
 
-![](D:\FINKI-2godina-predmeti-MOJA\Softversko Inzenjerstvo\LAB_VEZBI_2024\LAB2\lab2-si-CFG-withCode.drawio (2).png)
+![lab2-si-CFG-withCode.drawio.png](lab2-si-CFG-withCode.drawio.png)
 
 
 #### Цикломатска комплексност
@@ -13,7 +12,8 @@ Import image:
 
 #### Тест случаи според критериумот Every branch
 
-![](D:\FINKI-2godina-predmeti-MOJA\Softversko Inzenjerstvo\LAB_VEZBI_2024\LAB2\SI-lab2 - C1 - every branch.pdf)
+![every-branch.png](every-branch.png)
+[SI-lab2 - C1 - every branch.pdf](SI-lab2%20-%20C1%20-%20every%20branch.pdf)
 
 
 #### Tест случаи според критериумот Multiple Condition 
@@ -29,7 +29,8 @@ Import image:
 
 Секој услов може да биде ТОЧЕН или НЕТОЧЕН, во случајв имаме 3 поуслови = 2^3 = 8 !
 
-![](D:\FINKI-2godina-predmeti-MOJA\Softversko Inzenjerstvo\LAB_VEZBI_2024\LAB2\SI-lab2 - Multiple-conditions.pdf)
+![multiple-condition.png](multiple-condition.png)
+[SI-lab2 - Multiple-conditions.pdf](SI-lab2%20-%20Multiple-conditions.pdf)
 
 #### Објаснување на напишаните unit tests
 
