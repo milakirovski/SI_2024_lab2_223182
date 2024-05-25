@@ -29,8 +29,8 @@
 
 Секој услов може да биде ТОЧЕН или НЕТОЧЕН, во случајв имаме 3 подуслови = 2^3 = 8 
 
-![multiple-condition.png](multiple-condition.png)
-[SI-lab2 - Multiple-conditions.pdf](SI-lab2%20-%20Multiple-conditions.pdf)
+![multiple-conditions-tests.png](multiple-conditions-tests.png)
+[SI-lab2 - multiple-conditions-tests.pdf](SI-lab2%20-%20multiple-conditions-tests.pdf)
 
 #### Објаснување на напишаните unit tests
 
