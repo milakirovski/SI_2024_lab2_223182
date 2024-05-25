@@ -29,7 +29,7 @@
 
 Секој услов може да биде ТОЧЕН(Т) или НЕТОЧЕН(F), во случајов имаме 3 подуслови = 2^3 = 8.
 
-X означува дека вредноста на неговото место може да биле Т или F.
+X означува дека вредноста на неговото место може да биле Т и F.
 
 ![multiple-conditions-tests.png](multiple-conditions-tests.png)
 [SI-lab2 - multiple-conditions-tests.pdf](SI-lab2%20-%20multiple-conditions-tests.pdf)
